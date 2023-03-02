@@ -1,3 +1,6 @@
+# A collaboration I did with @annarylander and @rokkomini
+
+
 # Plant shop
 
 This is a webshop created with Typecript, React, Express and MongoDb.
