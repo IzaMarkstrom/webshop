@@ -1,9 +1,9 @@
-# A collaboration I did with @annarylander and @rokkomini
+# Collaboration together with @annarylander and @rokkomini
 
 
 # Plant shop
 
-This is a webshop created with Typecript, React, Express and MongoDb.
+This is a webshop created with TypeScript, React, Express and MongoDb.
 
 ## Run project with docker
 
